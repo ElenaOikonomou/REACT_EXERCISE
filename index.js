@@ -3,7 +3,7 @@
 
 
 const navbar = (
-    <nav>
+    <nav className="nav">
         <h1>Bob's Bistro</h1>
         <ul>
             <li>Menu</li>
