@@ -2,9 +2,11 @@ html, body {
     margin: 0;
     padding: 0;
     margin-left: 10px;
+    background-color: #e9abd4;
 }
 
 .nav{
     display: flex;
     flex-direction: column;
+    background-color: #f703a4;
 }
